@@ -1,0 +1,133 @@
+D:\Developing\Natanel Diaz\ConfeccionesLuis\ConfeccionesLuis\bin\Debug\ConfeccionesLuis.exe.config
+D:\Developing\Natanel Diaz\ConfeccionesLuis\ConfeccionesLuis\bin\Debug\ConfeccionesLuis.exe
+D:\Developing\Natanel Diaz\ConfeccionesLuis\ConfeccionesLuis\bin\Debug\ConfeccionesLuis.pdb
+D:\Developing\Natanel Diaz\ConfeccionesLuis\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Form1.resources
+D:\Developing\Natanel Diaz\ConfeccionesLuis\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Principal.resources
+D:\Developing\Natanel Diaz\ConfeccionesLuis\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Properties.Resources.resources
+D:\Developing\Natanel Diaz\ConfeccionesLuis\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.csproj.GenerateResource.cache
+D:\Developing\Natanel Diaz\ConfeccionesLuis\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.csproj.CoreCompileInputs.cache
+D:\Developing\Natanel Diaz\ConfeccionesLuis\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.exe
+D:\Developing\Natanel Diaz\ConfeccionesLuis\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.pdb
+D:\Developing\Natanel Diaz\ConfeccionesLuis\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Confecciones.resources
+D:\Developing\Natanel Diaz\ConfeccionesLuis\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Pagos.resources
+D:\Developing\Natanel Diaz\ConfeccionesLuis\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Clientes.resources
+D:\Developing\Natanel Diaz\ConfeccionesLuis\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Consultas.resources
+D:\Developing\Natanel Diaz\ConfeccionesLuis\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Inventario.resources
+D:\Developing\Natanel Diaz\ConfeccionesLuis\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Parametrizacion.resources
+D:\Developing\Natanel Diaz\ConfeccionesLuis\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Usuarios.resources
+D:\Developing\Natanel Diaz\ConfeccionesLuis\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Compras.resources
+D:\Developing\Natanel Diaz\ConfeccionesLuis\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.csprojAssemblyReference.cache
+D:\Developing\Natanel Diaz\CLQ-System\ConfeccionesLuis\bin\Debug\ConfeccionesLuis.exe.config
+D:\Developing\Natanel Diaz\CLQ-System\ConfeccionesLuis\bin\Debug\ConfeccionesLuis.exe
+D:\Developing\Natanel Diaz\CLQ-System\ConfeccionesLuis\bin\Debug\ConfeccionesLuis.pdb
+D:\Developing\Natanel Diaz\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.csprojAssemblyReference.cache
+D:\Developing\Natanel Diaz\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Clientes.resources
+D:\Developing\Natanel Diaz\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Compras.resources
+D:\Developing\Natanel Diaz\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Confecciones.resources
+D:\Developing\Natanel Diaz\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Consultas.resources
+D:\Developing\Natanel Diaz\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Form1.resources
+D:\Developing\Natanel Diaz\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Inventario.resources
+D:\Developing\Natanel Diaz\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Pagos.resources
+D:\Developing\Natanel Diaz\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Parametrizacion.resources
+D:\Developing\Natanel Diaz\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Principal.resources
+D:\Developing\Natanel Diaz\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Properties.Resources.resources
+D:\Developing\Natanel Diaz\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Usuarios.resources
+D:\Developing\Natanel Diaz\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.csproj.GenerateResource.cache
+D:\Developing\Natanel Diaz\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.csproj.CoreCompileInputs.cache
+D:\Developing\Natanel Diaz\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.exe
+D:\Developing\Natanel Diaz\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.pdb
+C:\Users\jorge.polanco\Desktop\proyecto\CLQ-System\ConfeccionesLuis\bin\Debug\ConfeccionesLuis.exe.config
+C:\Users\jorge.polanco\Desktop\proyecto\CLQ-System\ConfeccionesLuis\bin\Debug\ConfeccionesLuis.exe
+C:\Users\jorge.polanco\Desktop\proyecto\CLQ-System\ConfeccionesLuis\bin\Debug\ConfeccionesLuis.pdb
+C:\Users\jorge.polanco\Desktop\proyecto\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Clientes.resources
+C:\Users\jorge.polanco\Desktop\proyecto\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Compras.resources
+C:\Users\jorge.polanco\Desktop\proyecto\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Confecciones.resources
+C:\Users\jorge.polanco\Desktop\proyecto\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Consultas.resources
+C:\Users\jorge.polanco\Desktop\proyecto\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Form1.resources
+C:\Users\jorge.polanco\Desktop\proyecto\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Inventario.resources
+C:\Users\jorge.polanco\Desktop\proyecto\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Pagos.resources
+C:\Users\jorge.polanco\Desktop\proyecto\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Parametrizacion.resources
+C:\Users\jorge.polanco\Desktop\proyecto\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Principal.resources
+C:\Users\jorge.polanco\Desktop\proyecto\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Properties.Resources.resources
+C:\Users\jorge.polanco\Desktop\proyecto\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Usuarios.resources
+C:\Users\jorge.polanco\Desktop\proyecto\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.csproj.GenerateResource.cache
+C:\Users\jorge.polanco\Desktop\proyecto\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.csproj.CoreCompileInputs.cache
+C:\Users\jorge.polanco\Desktop\proyecto\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.exe
+C:\Users\jorge.polanco\Desktop\proyecto\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.pdb
+C:\Users\jorge.polanco\Desktop\proyecto\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\proyecto chacabana\CLQ-System\ConfeccionesLuis\bin\Debug\ConfeccionesLuis.exe.config
+C:\Users\USER\Desktop\proyecto chacabana\CLQ-System\ConfeccionesLuis\bin\Debug\ConfeccionesLuis.exe
+C:\Users\USER\Desktop\proyecto chacabana\CLQ-System\ConfeccionesLuis\bin\Debug\ConfeccionesLuis.pdb
+C:\Users\USER\Desktop\proyecto chacabana\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\proyecto chacabana\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Clientes.resources
+C:\Users\USER\Desktop\proyecto chacabana\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Compras.resources
+C:\Users\USER\Desktop\proyecto chacabana\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Confecciones.resources
+C:\Users\USER\Desktop\proyecto chacabana\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Consultas.resources
+C:\Users\USER\Desktop\proyecto chacabana\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Form1.resources
+C:\Users\USER\Desktop\proyecto chacabana\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Inventario.resources
+C:\Users\USER\Desktop\proyecto chacabana\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Pagos.resources
+C:\Users\USER\Desktop\proyecto chacabana\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Parametrizacion.resources
+C:\Users\USER\Desktop\proyecto chacabana\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Principal.resources
+C:\Users\USER\Desktop\proyecto chacabana\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Properties.Resources.resources
+C:\Users\USER\Desktop\proyecto chacabana\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Usuarios.resources
+C:\Users\USER\Desktop\proyecto chacabana\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\proyecto chacabana\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\proyecto chacabana\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.exe
+C:\Users\USER\Desktop\proyecto chacabana\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.pdb
+D:\Developing\Natanel Diaz\proyecto chacabana\CLQ-System\ConfeccionesLuis\bin\Debug\ConfeccionesLuis.exe.config
+D:\Developing\Natanel Diaz\proyecto chacabana\CLQ-System\ConfeccionesLuis\bin\Debug\ConfeccionesLuis.exe
+D:\Developing\Natanel Diaz\proyecto chacabana\CLQ-System\ConfeccionesLuis\bin\Debug\ConfeccionesLuis.pdb
+D:\Developing\Natanel Diaz\proyecto chacabana\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.csprojAssemblyReference.cache
+D:\Developing\Natanel Diaz\proyecto chacabana\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Clientes.resources
+D:\Developing\Natanel Diaz\proyecto chacabana\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Compras.resources
+D:\Developing\Natanel Diaz\proyecto chacabana\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Confecciones.resources
+D:\Developing\Natanel Diaz\proyecto chacabana\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Consultas.resources
+D:\Developing\Natanel Diaz\proyecto chacabana\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Form1.resources
+D:\Developing\Natanel Diaz\proyecto chacabana\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Inventario.resources
+D:\Developing\Natanel Diaz\proyecto chacabana\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Pagos.resources
+D:\Developing\Natanel Diaz\proyecto chacabana\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Parametrizacion.resources
+D:\Developing\Natanel Diaz\proyecto chacabana\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Principal.resources
+D:\Developing\Natanel Diaz\proyecto chacabana\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Properties.Resources.resources
+D:\Developing\Natanel Diaz\proyecto chacabana\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Usuarios.resources
+D:\Developing\Natanel Diaz\proyecto chacabana\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.csproj.GenerateResource.cache
+D:\Developing\Natanel Diaz\proyecto chacabana\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.csproj.CoreCompileInputs.cache
+D:\Developing\Natanel Diaz\proyecto chacabana\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.exe
+D:\Developing\Natanel Diaz\proyecto chacabana\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.pdb
+C:\Users\jorge.polanco\Desktop\proyecto chacabana\CLQ-System\ConfeccionesLuis\bin\Debug\ConfeccionesLuis.exe.config
+C:\Users\jorge.polanco\Desktop\proyecto chacabana\CLQ-System\ConfeccionesLuis\bin\Debug\ConfeccionesLuis.exe
+C:\Users\jorge.polanco\Desktop\proyecto chacabana\CLQ-System\ConfeccionesLuis\bin\Debug\ConfeccionesLuis.pdb
+C:\Users\jorge.polanco\Desktop\proyecto chacabana\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.csprojAssemblyReference.cache
+C:\Users\jorge.polanco\Desktop\proyecto chacabana\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Clientes.resources
+C:\Users\jorge.polanco\Desktop\proyecto chacabana\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Compras.resources
+C:\Users\jorge.polanco\Desktop\proyecto chacabana\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Confecciones.resources
+C:\Users\jorge.polanco\Desktop\proyecto chacabana\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Consultas.resources
+C:\Users\jorge.polanco\Desktop\proyecto chacabana\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Form1.resources
+C:\Users\jorge.polanco\Desktop\proyecto chacabana\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Inventario.resources
+C:\Users\jorge.polanco\Desktop\proyecto chacabana\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Pagos.resources
+C:\Users\jorge.polanco\Desktop\proyecto chacabana\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Parametrizacion.resources
+C:\Users\jorge.polanco\Desktop\proyecto chacabana\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Principal.resources
+C:\Users\jorge.polanco\Desktop\proyecto chacabana\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Properties.Resources.resources
+C:\Users\jorge.polanco\Desktop\proyecto chacabana\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Usuarios.resources
+C:\Users\jorge.polanco\Desktop\proyecto chacabana\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.csproj.GenerateResource.cache
+C:\Users\jorge.polanco\Desktop\proyecto chacabana\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.csproj.CoreCompileInputs.cache
+C:\Users\jorge.polanco\Desktop\proyecto chacabana\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.exe
+C:\Users\jorge.polanco\Desktop\proyecto chacabana\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.pdb
+C:\Users\USER\Desktop\proyecto chacabana 2\CLQ-System\ConfeccionesLuis\bin\Debug\ConfeccionesLuis.exe.config
+C:\Users\USER\Desktop\proyecto chacabana 2\CLQ-System\ConfeccionesLuis\bin\Debug\ConfeccionesLuis.exe
+C:\Users\USER\Desktop\proyecto chacabana 2\CLQ-System\ConfeccionesLuis\bin\Debug\ConfeccionesLuis.pdb
+C:\Users\USER\Desktop\proyecto chacabana 2\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\proyecto chacabana 2\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Clientes.resources
+C:\Users\USER\Desktop\proyecto chacabana 2\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Compras.resources
+C:\Users\USER\Desktop\proyecto chacabana 2\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Confecciones.resources
+C:\Users\USER\Desktop\proyecto chacabana 2\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Consultas.resources
+C:\Users\USER\Desktop\proyecto chacabana 2\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Form1.resources
+C:\Users\USER\Desktop\proyecto chacabana 2\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Inventario.resources
+C:\Users\USER\Desktop\proyecto chacabana 2\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Pagos.resources
+C:\Users\USER\Desktop\proyecto chacabana 2\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Parametrizacion.resources
+C:\Users\USER\Desktop\proyecto chacabana 2\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Principal.resources
+C:\Users\USER\Desktop\proyecto chacabana 2\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Properties.Resources.resources
+C:\Users\USER\Desktop\proyecto chacabana 2\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.Usuarios.resources
+C:\Users\USER\Desktop\proyecto chacabana 2\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\proyecto chacabana 2\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\proyecto chacabana 2\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.exe
+C:\Users\USER\Desktop\proyecto chacabana 2\CLQ-System\ConfeccionesLuis\obj\Debug\ConfeccionesLuis.pdb
